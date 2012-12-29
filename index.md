@@ -26,7 +26,8 @@ title: 声優統計
 - アニメの内容及びキャスティングを用いないDVD売上予測問題 [@y_benjo](http://twitter.com/y_benjo)  
 
 です．サークル情報は[こちら](https://webcatalog.circle.ms/Circle/83/W0105331)  
-
+ **完売しました．ブースまで足をお運びいただきありがとうございました．次の夏コミ(C84)での再販を予定しています．**   
+ 
 ### リンク
 [声優統計 - 糞ネット弁慶](http://d.hatena.ne.jp/repose/searchdiary?word=%2A%5B%C0%BC%CD%A5%C5%FD%B7%D7%5D)  
 [声優統計](http://voice-statistics.hatenablog.jp/)  
