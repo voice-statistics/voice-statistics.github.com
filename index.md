@@ -16,7 +16,19 @@ title: 声優統計
 
 ## コミックマーケット84
 コミックマーケット84(夏コミ)に当選しました．  
-スペースは10日の東ノ46-bにて，新刊「声優統計 第二号」，及び冬コミの既刊「声優統計 第一号」を出します．  
+スペースは10日の東ノ46-bにて，新刊「声優統計 第二号」を出します．   
+内容は  
+
+- 序文 [@toddler2009](http://twitter.com/toddler2009)   
+- トピックモデルを用いたニコニコ動画コメントデータの声優トピック流行推移解析 [@Med_KU](http://twitter.com/Med_KU)，[@biochem_fan](http://twitter.com/biochem_fan)    
+- 声優活動における「元アイドル」の影響予測 [@kkobayashi](http://twitter.com/kkobayashi)  
+- 声優ブログの「ご報告」エントリ自動検出システムの検討 [@MagnesiumRibbon](http://twitter.com/MagnesiumRibbon)  
+- 続・声優統計入門 −− 貧乳と巨乳の狭間で −−  [@R_Linux](http://twitter.com/R_Linux)  
+- 処女膜から声が出ているか: 音声による既婚声優の判別問題 [@y_benjo](http://twitter.com/y_benjo)  
+- Labeled LDAを用いた声優のニコニコ動画における特徴的コメントの抽出 [@y_benjo](http://twitter.com/y_benjo)   
+
+です．  
+また，冬コミの既刊「声優統計 第一号」も持っていきます．  
 
 
 ### Call For Papers
