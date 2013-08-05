@@ -24,7 +24,7 @@ title: 声優統計
 - 声優活動における「元アイドル」の影響予測 [@kkobayashi](http://twitter.com/kkobayashi)  
 - 声優ブログの「ご報告」エントリ自動検出システムの検討 [@MagnesiumRibbon](http://twitter.com/MagnesiumRibbon)  
 - 続・声優統計入門 −− 貧乳と巨乳の狭間で −−  [@R_Linux](http://twitter.com/R_Linux)  
-- 処女膜から声が出ているか: 音声による既婚声優の判別問題 [@y_benjo](http://twitter.com/y_benjo)  
+- 音声による既婚声優の判別問題 [@y_benjo](http://twitter.com/y_benjo)  
 - Labeled LDAを用いた声優のニコニコ動画における特徴的コメントの抽出 [@y_benjo](http://twitter.com/y_benjo)   
 
 です．  
