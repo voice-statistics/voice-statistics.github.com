@@ -1,5 +1,5 @@
 # ChangeLog
-## 2017-07-01 Ver 1.1
+## 2017-07-01 ver 1.1
 ### Fixed
 - `tsuchiya_angry` と同一だった `fujitou_angry` を正しいファイルに修正
 - `tsuchiya_angry` のファイル分割ミスを修正
