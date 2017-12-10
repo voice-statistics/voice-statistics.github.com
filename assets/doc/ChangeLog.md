@@ -1,4 +1,9 @@
 # ChangeLog
+## 2017-12-10 ver 1.1
+### Added
+- 東京大学猿渡研究室が公開している [JSUT (Japanese speech corpus of Saruwatari Lab, University of Tokyo) - Shinnosuke Takamichi (高道 慎之介)](https://sites.google.com/site/shinnosuketakamichi/publication/jsut)
+ へのリンクを追加．
+
 ## 2017-07-08 ver 1.1
 ### Added
 - 声優統計コーパスの作成方法について書いた
