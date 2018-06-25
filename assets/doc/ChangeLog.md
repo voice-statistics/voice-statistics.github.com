@@ -1,4 +1,10 @@
 # ChangeLog
+## 2018-06-25 ver 1.1
+### Added
+- 東京大学猿渡研究室が公開している [Shinnosuke Takamichi (高道 慎之介) - JSUT](https://sites.google.com/site/shinnosuketakamichi/publication/jsut) へのリンクを修正．
+- nico-opendata 音声読み上げデータセットへのリンクを追加．
+
+
 ## 2017-12-10 ver 1.1
 ### Added
 - 東京大学猿渡研究室が公開している [JSUT (Japanese speech corpus of Saruwatari Lab, University of Tokyo) - Shinnosuke Takamichi (高道 慎之介)](https://sites.google.com/site/shinnosuketakamichi/publication/jsut)
