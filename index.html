@@ -109,14 +109,14 @@
 	  <h3>更新履歴</h3>
 	  <p>詳細な変更履歴は<a href="https://github.com/voice-statistics/voice-statistics.github.com/blob/master/assets/doc/ChangeLog.md">こちら (ChangeLog.md) </a>をご確認ください．</p>
 	  <p>
-	    2020 年 03 月 28 日 : 音素バランス文の読みを修正しました．</br>
-            2019 年 08 月 18 日 : JVS corpus へのリンクを追加．</br>
-    	    2018 年 11 月 21 日 : Google Drive に配置したミラーファイルへのリンクを追加．</br>
-	    2018 年 06 月 25 日 : nico-opendata 音声読み上げデータセットへのリンクを追加．</br>
-	    2017 年 12 月 10 日 : JSUT へのリンクを追加．</br>
-	    2017 年 07 月 08 日 : コーパス構築手法公開．</br>
-	    2017 年 07 月 01 日 : ver 1.1 を公開しました．</br>
-	    2017 年 06 月 26 日 : ver 1.0 を公開しました．</br>
+	    2020年03月28日 : 音素バランス文の読みを修正しました．</br>
+            2019年08月18日 : JVS corpus へのリンクを追加．</br>
+    	    2018年11月21日 : Google Drive に配置したミラーファイルへのリンクを追加．</br>
+	    2018年06月25日 : nico-opendata 音声読み上げデータセットへのリンクを追加．</br>
+	    2017年12月10日 : JSUT へのリンクを追加．</br>
+	    2017年07月08日 : コーパス構築手法公開．</br>
+	    2017年07月01日 : ver 1.1 を公開しました．</br>
+	    2017年06月26日 : ver 1.0 を公開しました．</br>
 	  </p>
 
 
@@ -125,7 +125,7 @@
 	  <p>
 	    日本語版 Wikipedia の本文データを元に， diphone の出現頻度を考慮し構築した音素バランス文です．</br>
 	    まず，全本文に対して <a href="http://taku910.github.io/mecab/">MeCab</a> と <a href="https://github.com/neologd/mecab-ipadic-neologd">NEologd</a> を用いた読み推定を行いました．</br>
-	    その後，出現した diphone の上位 500 種が 3 個以上含まれるよう線形計画問題によって文集合を抽出しています．</br>
+	    その後，出現した diphone の上位500種が3個以上含まれるよう線形計画問題によって文集合を抽出しています．</br>
 	    読みから音素へのマッピングは<a href="http://julius.osdn.jp/">汎用大語彙連続音声認識エンジン Julius </a> を参考にしています．</br>
 	    <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC-BY-SA ライセンス</a>で配布しています．</br>
 	    <a href="https://github.com/voice-statistics/voice-statistics.github.com/blob/master/assets/doc/balance_sentences.txt">音素バランス文 (txt file)</a></br>
@@ -135,8 +135,8 @@
 	  <span class="icon major style3 fa-file-audio-o"></span>
 	  <h3>音声ファイル</h3>
 	  <p>
-	    プロの女性声優 3 名が 3 パターンの感情で音素バランス文を読み上げたファイルです．</br>
-	    48kHz / 16bit の WAV ファイルであり，総長約 2 時間，総ファイルサイズ 720 MB です．
+	    プロの女性声優3名が3パターンの感情で音素バランス文を読み上げたファイルです．</br>
+	    48kHz / 16-bitの WAV ファイルであり，総長約2時間，総ファイルサイズ720MBです．
 	  </p>
 	  <p>
 	    この音声ファイルは主に個人での研究・分析目的でのみ無償で利用可能です．</br>
@@ -179,6 +179,15 @@
 	    </li>
 	  </ul>
 
+	  <span class="icon major style3 fa-scroll"></span>
+	  <h3>声優統計コーパスが利用されている論文</h3>
+	  <p><a href="https://arxiv.org/abs/2002.06778">Takaaki Saeki, Yuki Saito, Shinnosuke Takamichi, and Hiroshi Saruwatari. Lifter Training and Sub-band Modeling for Computationally Efficient and High-Quality Voice Conversion Using Spectral Differentials. ICASSP 2020.</p>
+	  <p><a href="https://dl.acm.org/doi/abs/10.1145/3332167.3357106">Riku Arakawa, Shinnosuke Takamichi, and Hiroshi Saruwatari. TransVoice: Real-Time Voice Conversion for Augmenting Near-Field Speech Communication. UIST 2019.</p>
+	  <p><a href="https://ieeexplore.ieee.org/document/9023346">Kento Matsumoto, Sunao Hara, and Masanobu Abe. Speech-like Emotional Sound Generator by WaveNet. APISIPA 2019.</p>
+	  <p><a href="https://www.isca-speech.org/archive/SSW_2019/abstracts/SSW10_P_1-10.html">Riku Arakawa, Shinnosuke Takamichi, and Hiroshi Saruwatari. Implementation of DNN-based real-time voice conversion and its improvements by audio data augmentation and mask-shaped device. ISCA Speech Synthesis Workshop 2019.</p>
+	  <p><a href="https://drive.google.com/file/d/1UUf5MOSeCyUQuwRRrIanUFZOwvl9LZlw/view">佐伯 高明, 齋藤 佑樹, 高道 慎之介, and 猿渡 洋. 差分スペクトル法に基づく広帯域声質変換のためのサブバンドリフタ学習. 日本音響学会2020年春季研究発表会.</p>
+	  <p><a href="https://drive.google.com/file/d/1VhPW59dUlSxcHcm9mB257_pBalzvYy3-/view">佐伯 高明, 齋藤 佑樹, 高道 慎之介, 猿渡 洋. 差分スペクトル法に基づくDNN声質変換の計算量削減に向けたフィルタ推定. 日本音響学会2019年秋季研究発表会.</p>
+
 	  <span class="icon major style3 fa-link"></span>
 	  <h3>外部リンク</h3>
 	  <h4><a href="https://sites.google.com/site/shinnosuketakamichi/publication/jsut">JSUT (Japanese speech corpus of Saruwatari Lab, University of Tokyo)</a></h4>
@@ -189,13 +198,13 @@
 
 	  <h4><a href="https://nico-opendata.jp/ja/casestudy/2stack_voice_conversion/report.html">nico-opendata 音声読み上げデータセット</a></h4>
 	  <p>
-	    Dwango Media Village 所属の男性研究員による，声優統計コーパス 100 文を読み上げた音声コーパスです．</br>
+	    Dwango Media Village 所属の男性研究員による，声優統計コーパス100文を読み上げた音声コーパスです．</br>
 	  </p>	  
 
 <h4><a href="https://sites.google.com/site/shinnosuketakamichi/research-topics/jvs_corpus"> JVS (Japanese versatile speech) corpus </a></h4>
           <p>
             JVS corpus は東京大学 猿渡研究室が作成し，無償で公開している音声コーパスです．</br>
-            JVS corpus には声優統計コーパスの音素バランス文を 100 人のプロフェッショナル話者 (声優・俳優など) が読み上げた音声 (parallel100) が含まれています
+            JVS corpus には声優統計コーパスの音素バランス文を100人のプロフェッショナル話者 (声優・俳優など) が読み上げた音声 (parallel100) が含まれています
 ．</br>
           </p>
 
