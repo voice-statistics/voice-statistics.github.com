@@ -75,8 +75,7 @@ sentence_id	wikipedia url	note
 074	https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%B3%E3%83%9C_(%E3%82%AB%E3%83%A1%E3%83%A9)
 075	https://ja.wikipedia.org/wiki/%E6%A1%9C%E3%81%AE%E8%8A%B1%E3%81%B3%E3%82%89%E3%81%9F%E3%81%A1	原文 : 楽曲のセンターポジションは、高橋みなみが務めた
 076	https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%82%A4%E3%82%A2%E3%83%8D%E3%82%A4%E3%83%A9
-077	https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%A2%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B5%E3%83%83%E3%83%88236%E4%BE%BF%E6%BB%91%E7%A9%BA%E4%BA%8B%E6%95%85	"原文 : 大西洋上の巡航高度から動力なしで滑空し緊急着陸に成功した。
-00"
+077	https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%A2%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B5%E3%83%83%E3%83%88236%E4%BE%BF%E6%BB%91%E7%A9%BA%E4%BA%8B%E6%95%85	原文 : 大西洋上の巡航高度から動力なしで滑空し緊急着陸に成功した。
 078	https://ja.wikipedia.org/wiki/%E6%8C%AF%E5%8B%95%E6%BA%96%E4%BD%8D
 079	https://ja.wikipedia.org/wiki/%E4%B9%85%E9%87%8E%E4%BF%AE%E6%85%88
 080	https://ja.wikipedia.org/wiki/%E8%8D%92%E9%87%8E%E3%81%AE%E6%B1%BA%E9%97%98	原文 : かすかに聞こえてくる讃美歌が次第に大きくなっていく
