@@ -1,0 +1,102 @@
+sentence_id	wikipedia url	note
+001	https://ja.wikipedia.org/wiki/%E4%B8%8D%E5%8B%95%E6%98%8E%E7%8E%8B
+002	https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%A9%E3%83%A0%E3%83%81%E3%83%A3%E3%82%A6%E3%83%80%E3%83%BC
+003	https://ja.wikipedia.org/wiki/Category:%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%82%B2%E3%83%BC%E3%83%A0%E9%96%A2%E9%80%A3%E3%81%AE%E4%BA%BA%E7%89%A9
+004	https://ja.wikipedia.org/wiki/%E8%8D%8F%E5%8E%9F%E7%94%BA%E9%A7%85
+005	https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%BB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF
+006	https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A3%E3%83%83%E3%83%87%E3%83%AB%E3%83%B3
+007	https://ja.wikipedia.org/wiki/%E4%BF%A1%E5%8F%B7%E5%87%A6%E7%90%86
+008	https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%81%E3%83%BC
+009	https://ja.wikipedia.org/wiki/%E5%8D%97%E5%A4%A7%E9%9A%85%E7%94%BA	原文 : また禰寝氏は、中山王の治める琉球王国との交易にも参加した
+010	https://ja.wikipedia.org/wiki/MobileApps
+011	https://ja.wikipedia.org/wiki/%E6%B0%B8%E4%BA%95%E6%B6%BC
+012	https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A5%E3%83%93%E3%83%AA%E6%A9%8B
+013	https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%B9%E3%82%BF%E3%80%9C%E6%81%8B%E3%81%8C%E5%87%BA%E6%9D%A5%E3%82%8B%E3%81%BE%E3%81%A7%E3%80%9C
+014	https://ja.wikipedia.org/wiki/%E6%96%89%E8%97%A4%E5%BD%A9	原文 : クィーンズアベニューに所属するタレント
+015	https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%A3%E3%83%8D%E3%82%B9
+016	https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%B0%E3%83%93%E3%83%BC%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2%E4%BB%A3%E8%A1%A8
+017	https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%A3%E3%83%B3%E3%83%96%E3%83%AB%E4%BE%9D%E5%AD%98%E7%97%87	当時の本文には存在していた
+018	https://ja.wikipedia.org/wiki/Vine_Linux
+019	https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%AB%E3%83%95%E3%82%A9%E3%83%AB%E3%83%88
+020	https://ja.wikipedia.org/wiki/%E6%96%8E%E8%97%A4%E7%94%B1%E5%A4%9A%E5%8A%A0
+021	https://ja.wikipedia.org/wiki/%E8%83%83%E5%88%87%E9%99%A4%E8%A1%93
+022	https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXII
+023	https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AC%E3%83%B3_(%E3%83%9F%E3%82%B7%E3%82%AC%E3%83%B3%E5%B7%9E)
+024	https://ja.wikipedia.org/wiki/%E6%B8%A9%E5%BA%A6
+025	https://ja.wikipedia.org/wiki/%E7%81%AB%E9%87%8E%E6%AD%A3%E5%B9%B3	原文 : そのひょうひょうとした姿が中高年を中心に共感を集めている
+026	https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%B8%E3%83%A3%E3%82%AF%E3%82%BD%E3%83%B3
+027	https://ja.wikipedia.org/wiki/%E5%B7%BB%E7%94%BA
+028	https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%AA%E3%83%A1%E3%83%BC%E3%83%87%E3%83%BC	原文 : このときペリメーデーはアムピクトリュオーンに同行してテーバイに来ていたリキュムニオスに妻として与えられた
+029	https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AD%E3%83%BC%E3%83%96%E3%83%BC%E3%83%84
+030	https://ja.wikipedia.org/wiki/%E9%98%B2%E6%B0%B7%E3%83%96%E3%83%BC%E3%83%84
+031	https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%AA%E3%83%BC%E3%83%95
+032	https://ja.wikipedia.org/wiki/ANN%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9	当時の本文には存在していた
+033	https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB
+034	https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%BC%E3%83%AA%E3%83%A5%E3%82%B7%E3%82%AA%E3%83%B3
+035	https://ja.wikipedia.org/wiki/%E6%A3%AE%E6%B0%B8%E3%81%AE%E3%81%8A%E3%81%84%E3%81%97%E3%81%84%E7%89%9B%E4%B9%B3
+036	https://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%A6%E3%82%93%E3%81%B0%E5%AE%87%E5%AE%99%E4%BA%BA	当時の本文には存在していた
+037	https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AB%E3%83%99%E3%82%A4%E3%83%A6%EF%BC%9D%E3%82%A8%E3%82%BD%E3%83%B3%E3%83%8C
+038	https://ja.wikipedia.org/wiki/%E7%9C%9F%E7%94%B0%E8%A3%95%E8%B2%B4
+039	https://ja.wikipedia.org/wiki/Globe
+040	https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%AB%E3%83%BB%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0
+041	https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A9%E3%83%B3%E3%83%86%E3%83%BC%E3%83%8C%E3%83%96%E3%83%AD%E3%83%BC%E5%AE%AE%E6%AE%BF
+042	https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%80%E3%83%BC%E3%83%A0%E5%AF%BA%E9%99%A2_(%E3%83%87%E3%83%AA%E3%83%BC)
+043	https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%87%E3%83%BC%E3%82%B9
+044	https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A0%E3%83%91%E3%83%AF%E3%83%BC%E9%83%A1
+045	https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%8F%E3%83%BC%E3%82%B2%E3%83%B3
+046	https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9F%E3%83%A5%E3%83%A9%E3%82%AB%E3%83%BC
+047	https://ja.wikipedia.org/wiki/%E8%BF%91%E9%89%8421020%E7%B3%BB%E9%9B%BB%E8%BB%8A
+048	https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%86%E3%82%A3%E3%83%BB%E3%83%8B%E3%82%A8%E3%83%9F
+049	https://ja.wikipedia.org/wiki/Palace_of_the_Silver_Princess
+050	https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0
+051	https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%B7%E3%83%AD%E3%83%BB%E3%83%90%E3%82%B8%E3%83%AA
+052	https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%A3%9F%E5%93%81%E6%A8%99%E6%BA%96%E6%88%90%E5%88%86%E8%A1%A8	原文 : 学校や病院などの給食業務で栄養素を計算する上で重要な資料のひとつであり
+053	https://ja.wikipedia.org/wiki/%E6%93%AC%E5%8F%A4%E7%8C%AB
+054	https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%83%83%E3%82%AF%E3%83%AA%E3%83%B3%E5%8C%BA
+055	https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A1%E3%83%BC%E3%82%B8%E3%83%AB%E3%83%BB%E3%82%AB%E3%83%A9%E3%82%B3%E3%83%80
+056	https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%83%A5%E3%82%B7%E3%82%AF%E3%83%88%E3%83%BC%E3%83%B3
+057	https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%82%B9%E3%83%86%E3%82%A4%E3%83%A2%E3%82%B9
+058	https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%AD%E3%82%A4%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%80%E3%83%BC%E3%82%BD%E3%83%B3
+059	https://ja.wikipedia.org/wiki/%E8%8D%92%E5%B7%9D%E5%B0%AD
+060	https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%83%E3%82%B7%E3%83%BC%E3%83%BB%E3%83%98%E3%83%83%E3%83%89
+061	https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%82%B5%E3%83%BC%E3%83%A2%E3%83%B3%E3%82%BA
+062	https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%82%B0%E3%83%AC%E3%83%83%E3%82%B0
+063	https://ja.wikipedia.org/wiki/CR%E3%82%B9%E3%83%AD%E3%81%B1%E3%81%A1%E3%82%93%E3%81%93%E3%82%B0%E3%83%A9%E3%83%87%E3%82%A3%E3%82%A8%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%A8%E3%83%9C%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3
+064	https://ja.wikipedia.org/wiki/%E8%B2%B4%E8%85%90
+065	https://ja.wikipedia.org/wiki/%E5%90%8D%E6%8E%A2%E5%81%B5%E3%82%B3%E3%83%8A%E3%83%B3_%E6%8E%A2%E5%81%B5%E3%81%9F%E3%81%A1%E3%81%AE%E9%8E%AE%E9%AD%82%E6%AD%8C
+066	https://ja.wikipedia.org/wiki/%E5%91%BC%E5%90%B8%E4%B8%8D%E5%85%A8
+067	https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%83%E3%83%89%E3%82%AD%E3%83%BC
+068	https://ja.wikipedia.org/wiki/%E5%AE%AE%E5%B4%8E%E7%A5%9E%E5%AE%AE%E5%A4%A7%E7%A5%AD
+069	https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%83%BC%E3%83%A0%E3%82%BA%E5%B7%9D
+070	https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%82%AF%E3%83%BB%E3%82%A4%E3%83%BC%E3%82%B9%E3%83%88%E3%83%9E%E3%83%B3
+071	https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88
+072	https://ja.wikipedia.org/wiki/%E8%A5%BF%E9%83%A8%E6%88%A6%E7%B7%9A_(%E5%8D%97%E5%8C%97%E6%88%A6%E4%BA%89)
+073	https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%90%E3%83%BC%E3%83%88%E3%83%BB%E3%82%A6%E3%83%83%E3%83%89%E3%83%AF%E3%83%BC%E3%83%89%E3%83%BB%E3%83%90%E3%83%BC%E3%83%B3%E3%82%A6%E3%82%A7%E3%83%AB
+074	https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%B3%E3%83%9C_(%E3%82%AB%E3%83%A1%E3%83%A9)
+075	https://ja.wikipedia.org/wiki/%E6%A1%9C%E3%81%AE%E8%8A%B1%E3%81%B3%E3%82%89%E3%81%9F%E3%81%A1	原文 : 楽曲のセンターポジションは、高橋みなみが務めた
+076	https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%82%A4%E3%82%A2%E3%83%8D%E3%82%A4%E3%83%A9
+077	https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%A2%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B5%E3%83%83%E3%83%88236%E4%BE%BF%E6%BB%91%E7%A9%BA%E4%BA%8B%E6%95%85	"原文 : 大西洋上の巡航高度から動力なしで滑空し緊急着陸に成功した。
+00"
+078	https://ja.wikipedia.org/wiki/%E6%8C%AF%E5%8B%95%E6%BA%96%E4%BD%8D
+079	https://ja.wikipedia.org/wiki/%E4%B9%85%E9%87%8E%E4%BF%AE%E6%85%88
+080	https://ja.wikipedia.org/wiki/%E8%8D%92%E9%87%8E%E3%81%AE%E6%B1%BA%E9%97%98	原文 : かすかに聞こえてくる讃美歌が次第に大きくなっていく
+081	https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%AA%E3%83%97%E3%83%A9%E3%82%A6%E3%82%A3%E3%83%8F%E3%83%BC%E3%83%B3%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92
+082	https://ja.wikipedia.org/wiki/%E5%B8%B0%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F%E3%82%A6%E3%83%AB%E3%83%88%E3%83%A9%E3%83%9E%E3%83%B3%E3%81%AE%E7%99%BB%E5%A0%B4%E6%80%AA%E7%8D%A3	原文 : カーミラ星と呼ばれている惑星から宇宙船に乗り、人間の女性を皆殺しにして地球人類を全滅させようと地球に侵入した宇宙人
+083	https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%83%E3%82%AC%E3%83%BC%E3%83%90%E3%83%B3%E3%82%AF
+084	https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%A6%E3%83%AD%E3%83%BC%E3%83%BB%E3%82%B9%E3%82%B3%E3%83%AD%E3%83%91%E3%83%BC%E3%83%89%E3%82%B7%E3%82%AF%E3%82%A3%E3%82%A4
+085	https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%AA%E3%83%83%E3%83%89%E3%83%BB%E3%83%90%E3%83%BC%E3%82%B0%E3%83%9E%E3%83%B3
+086	https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%AB%E3%82%AE%E3%83%BC%E9%AB%98%E9%80%9F%E9%89%84%E9%81%933%E5%8F%B7%E7%B7%9A
+087	https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%A4%E3%82%B8%E3%82%A7%E3%83%AB%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AB%E3%82%BD%E3%83%B3	原文 : 2002年に長距離砲の補強を目指していた大阪近鉄バファローズからオファーを受けて入団
+088	https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%95%E3%82%A1%E3%82%A4%E3%82%BF%E3%83%BCII_V	当時の本文には存在していた
+089	https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%B4%E3%82%A1%E3%83%B3%E3%83%8B%E3%83%BB%E3%83%90%E3%83%83%E3%83%86%E3%82%A3%E3%82%B9%E3%82%BF%E3%83%BB%E3%83%89%E3%83%A9%E3%83%BC%E3%82%AE	原文 : 現在はハープシコードの作曲家として記憶されている
+090	https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%8B%E3%83%A5%E3%83%BC%E7%89%B9%E6%88%A6%E9%9A%8A
+091	https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%89%E3%83%BB%E3%83%9C%E3%82%A2%E3%83%AB%E3%83%8D
+092	https://ja.wikipedia.org/wiki/%E7%B4%AB%E5%A4%96%E7%B7%9A
+093	https://ja.wikipedia.org/wiki/Yelp
+094	https://ja.wikipedia.org/wiki/%E3%82%B2%E3%82%AA%E3%83%AB%E3%82%AE%E3%82%A4%E3%83%BB%E3%82%B0%E3%83%AB%E3%82%B8%E3%82%A8%E3%83%95	原文 : 若き日の反逆ゆえに宇宙の中央を追放されて惑星地球にやってきた主人公ベルゼバブが宇宙船カルナークのなかで孫に語る人間に関する壮大な物語
+095	https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AD%E3%82%A4%E3%83%89%E3%81%AE%E4%B8%80%E8%A6%A7	原文 : ジャガーとは対照的にボディービルダーを髣髴とさせるマッチョな外見が特徴
+096	https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%90%E3%83%BC%E3%83%88%E3%83%BB%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%A0%E3%82%BA%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8%E3%83%BB%E3%83%9E%E3%82%AF%E3%83%A9%E3%83%BC%E3%82%AD%E3%83%B3	原文 : ペンシルベニア州ピッツバーグのアレゲーニー高校を卒業
+097	https://ja.wikipedia.org/wiki/%E4%BA%BA%E5%B7%A5%E7%B2%98%E6%80%A7	原文 : この概念の導入によって流体のコンピューターシミュレーションが高い精度で可能となった
+098	https://ja.wikipedia.org/wiki/%E3%82%AC%E3%82%B8%E3%83%A7%E3%83%B3_(SS-211)	原文 : 乾ドックに入渠してオーバーホールすべきかどうかチェックされた
+099	https://ja.wikipedia.org/wiki/%E3%81%AF%E3%81%98%E3%82%81%E3%81%AE%E4%B8%80%E6%AD%A9%E3%81%AE%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9	原文 : デビューはフェザー級だったが
+100	https://ja.wikipedia.org/wiki/1864%E5%B9%B4%E3%81%AE%E3%83%90%E3%83%AC%E3%83%BC%E6%96%B9%E9%9D%A2%E4%BD%9C%E6%88%A6	原文 : アーリーは南のバージニア州ウィンチェスター近くのフィッシャーズヒルまで軍を退いた
