@@ -1,5 +1,11 @@
 # ChangeLog
 
+## 2020-11-01 ver 1.4
+
+### Added
+
+- [JVS コーパスの利用を推奨する告知](https://github.com/voice-statistics/voice-statistics.github.com/blob/master/assets/doc/vs_to_jvs.md)を追加しました
+
 ## 2020-04-20 ver 1.3
 
 ### Added
